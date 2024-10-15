@@ -1,0 +1,174 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "category": "Yêu Cầu Chức Năng (Functional Requirements) và các yêu cầu chung khác",
+      "checklists": [
+        {
+          "id": 161,
+          "question": "Tóm tắt thông tin về yêu cầu tính năng hệ thống phục vụ mục đích gì ?",
+          "answer": "Hệ thống quản lý căn hộ/ tòa nhà cung cấp giải pháp toàn diện để quản lý thông tin cư dân, quản lý tài sản, xử lý thanh toán và theo dõi hoạt động của nhân viên bảo trì, an ninh. Hệ thống có khả năng tích hợp với các hệ thống bên thứ ba để quản lý tài chính, thanh toán điện tử và các dịch vụ thông minh khác trong tòa nhà.",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {
+            "id": 900,
+            "question": "Tóm tắt thông tin về yêu cầu tính năng hệ thống phục vụ mục đích gì ?",
+            "answer": "Hệ thống quản lý căn hộ/ tòa nhà cung cấp giải pháp toàn diện để quản lý thông tin cư dân, quản lý tài sản, xử lý thanh toán và theo dõi hoạt động của nhân viên bảo trì, an ninh. Hệ thống có khả năng tích hợp với các hệ thống bên thứ ba để quản lý tài chính, thanh toán điện tử và các dịch vụ thông minh khác trong tòa nhà.",
+            "hasAnswer": true,
+            "note": "",
+            "questionAndAnswer": {
+              "id": 1200,
+              "question": "Tóm tắt thông tin về yêu cầu tính năng hệ thống phục vụ mục đích gì ?",
+              "answer": "Hệ thống quản lý căn hộ/ tòa nhà cung cấp giải pháp toàn diện để quản lý thông tin cư dân, quản lý tài sản, xử lý thanh toán và theo dõi hoạt động của nhân viên bảo trì, an ninh. Hệ thống có khả năng tích hợp với các hệ thống bên thứ ba để quản lý tài chính, thanh toán điện tử và các dịch vụ thông minh khác trong tòa nhà.",
+              "hasAnswer": true,
+              "note": "",
+              "questionAndAnswer": {}
+            }
+          }
+        },
+        {
+          "id": 162,
+          "question": "Có bao nhiêu chức năng chính và phụ được mô tả? Cụ thể các chức năng đó là gì ?",
+          "answer": "Mục tiêu chính của yêu cầu lần này là tìm kiếm một đối tác phát triển hoặc cung cấp giải pháp công nghệ có khả năng triển khai hệ thống quản lý căn hộ/tòa nhà hiệu quả, cải thiện quy trình thanh toán, tối ưu hiệu suất nhân viên và nâng cao trải nghiệm người dùng.",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 163,
+          "question": "Các yêu cầu chức năng có được mô tả chi tiết không? Cụ thể các chức năng đó là gì ?",
+          "answer": "Dự án yêu cầu phát triển một hệ thống quản lý toàn diện, bao gồm các tính năng sau: Quản lý thông tin cư dân, Theo dõi bảo trì và hiệu quả, Quản lý hợp đồng thuê nhà",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 164,
+          "question": "Độ ưu tiên các tính năng có được mô tả hay chưa ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 165,
+          "question": "Các yêu cầu có bao gồm tiêu chí chấp nhận (acceptance criteria) không? Cụ thể các chức năng đó là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 166,
+          "question": "Các yêu cầu có bao gồm tiêu chí chấp nhận (acceptance criteria) không? Cụ thể các chức năng đó là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 167,
+          "question": "Đối tượng sử dụng cuối của hệ thống là ai ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 168,
+          "question": "Có yêu cầu đối với phạm vi công việc cần thực hiện cụ thể bao gồm các công đoạn nào hay không ? VD: Design, Development, Testing,…",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 169,
+          "question": "Có yêu cầu liên quan đến Application cần phát triển là gì không ? VD: Web Application, Mobile Application,…",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Yêu Cầu Phi Chức Năng (Non-Functional Requirements)",
+      "checklists": [
+        {
+          "id": 170,
+          "question": "Có yêu cầu về hiệu suất (performance) không? Nếu có thì cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 171,
+          "question": "Có yêu cầu về tính ổn định (stability) và độ tin cậy (reliability) không? Nếu có thì cụ thể là gì ? ",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 172,
+          "question": "Có yêu cầu về khả năng mở rộng (scalability) không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 173,
+          "question": "Có yêu cầu về bảo mật (security) không? Cụ thể thông tin như thế nào ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 174,
+          "question": "Có yêu cầu về bảo trì và hỗ trợ (maintenance and support) không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 175,
+          "question": "Có yêu cầu về tuân thủ quy định (regulatory compliance) không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 176,
+          "question": "Có yêu cầu về khả năng tương thích (compatibility) với các hệ thống hoặc phần mềm khác không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 177,
+          "question": "Có yêu cầu về sao lưu và phục hồi (backup and recovery) không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        },
+        {
+          "id": 178,
+          "question": "Có yêu cầu về khả năng hoạt động trong các môi trường khác nhau (cross-environment operation) không? Cụ thể là gì ?",
+          "answer": "",
+          "hasAnswer": true,
+          "note": "",
+          "questionAndAnswer": {}
+        }
+      ]
+    }
+  ]
+}
